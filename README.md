@@ -1,5 +1,5 @@
 # Ex09 Event Registration Web Application
-## Date:
+## Date:16.05.2025
 
 ## AIM:
 To design, develop and deploy a web application for event registration.
@@ -48,9 +48,9 @@ Page 1
   <img style="width: 133px; height: 133px; left: 137px; top: 147px; position: absolute; border-radius: 30px" src="https://placehold.co/133x133" />
   <div style="width: 247px; height: 29px; left: 80px; top: 346px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: #821C1C; font-size: 48px; font-family: ZCOOL KuaiLe; font-weight: 400; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">EVENT DAY</div>
 </div>
-```
 
-```
+
+
 Page 2
 
 <div style="width: 412px; height: 917px; position: relative; background: black; overflow: hidden">
@@ -61,8 +61,8 @@ Page 2
   <img style="width: 413px; height: 62px; left: -1px; top: 9px; position: absolute" src="https://placehold.co/413x62" />
   <div style="width: 247px; height: 31px; left: 14px; top: 121px; position: absolute; text-align: right; justify-content: center; display: flex; flex-direction: column; color: #C50000; font-size: 48px; font-family: Dancing Script; font-weight: 400; word-wrap: break-word; text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25)">Events</div>
 </div>
-```
-```
+
+
 Page 3
 
 <div style="width: 412px; height: 917px; position: relative; opacity: 0.90; background: black; overflow: hidden">
@@ -87,8 +87,8 @@ Page 3
   <div style="width: 166px; height: 55px; left: 128px; top: 680px; position: absolute; background: #21711E; box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25); border-radius: 2px"></div>
   <div style="width: 142px; height: 38px; left: 140px; top: 688px; position: absolute; text-align: center; justify-content: center; display: flex; flex-direction: column; color: white; font-size: 20px; font-family: Inter; font-weight: 800; word-wrap: break-word">REGISTER</div>
 </div>
-```
-```
+
+
 Page 4
 
 <div style="width: 412px; height: 917px; position: relative; background: black; overflow: hidden">
